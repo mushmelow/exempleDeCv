@@ -1,0 +1,57 @@
+
+
+h1 {   
+    color: #A52A2A;
+    border-bottom: 1px solid #000000;
+    padding-bottom: 2px;
+    position: relative;
+}
+
+#brad{
+    position: absolute;
+    float: left;
+    width: 50%;
+}
+
+ul {
+    list-style:none;
+}
+
+h2{
+    color: #A52A2A;
+    position: relative;
+
+}
+
+.haut{
+    text-align: right;
+    position: absolute;
+    top:30px;
+    left: 150px;
+}
+.droite{
+    float: right;
+    width: 45%;
+    position: relative;
+}
+
+.gauche{
+    float: left;
+    width: 45%;
+    position: relative;
+    margin-left: 5%;
+    
+    
+}
+
+.left{
+    position:absolute;
+    width: 100%;
+    top: 290px;
+}
+
+
+.bas{
+    position: absolute;
+    top: 290px;
+}
